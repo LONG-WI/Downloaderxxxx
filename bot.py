@@ -10,9 +10,9 @@ logging.basicConfig(format="%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # Replace with your bot token from BotFather
-BOT_TOKEN = "youbot_token"
+BOT_TOKEN = "7765346451:AAEMMrmf0iRvrtdQEvWvVZQY6FZfnmo8Fbg"
 # Replace with your group chat ID for logs
-LOG_GROUP_ID = "group_id_log"
+LOG_GROUP_ID = "https://t.me/+8yBsOkMNwaAyZmI1"
 
 # Rate limiting (e.g., 5 downloads per user per hour)
 USER_DOWNLOADS = {}
